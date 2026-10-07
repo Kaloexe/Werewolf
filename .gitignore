@@ -1,0 +1,22 @@
+# Symfony
+/backend/vendor/
+/backend/var/
+/backend/.env.local
+/backend/.env.*.local
+
+# React
+/frontend/node_modules/
+/frontend/dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
